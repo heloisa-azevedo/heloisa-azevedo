@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu GitHub! 👋
 
-<!--
-**heloisa-azevedo/heloisa-azevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Heloísa Azevedo, sou uma estudante de **Ciência de Dados** na Fatec, com previsão de formação em **dezembro de 2027**. Tenho formação em **Administração** pelo Instituto Federal de São Paulo - IFSP e estou buscando unir meus conhecimentos em **negócios e dados** para criar soluções inovadoras e orientadas por análise.
 
-Here are some ideas to get you started:
+## Sobre mim 🚀
+- 📊 Apaixonada por **estratégia, dados e inovação**.
+- 🐍 Iniciando meus estudos em **Python** e explorando suas aplicações em análise de dados.
+- 📈 Interessada em **estatística, machine learning e visualização de dados**.
+- 🤝 Sempre aberta a colaborações e novos desafios!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou aprendendo atualmente? 📚
+- 📌 Lógica de programação com Python
+- 📌 Manipulação e análise de dados com Pandas
+- 📌 Visualização de dados para tomada de decisão
+
+## Como me encontrar 📬
+- 💼 [LinkedIn](www.linkedin.com/in/heloísa-azevedo)  
+- 📧 [Email](heloisaazevedo92@gmail.com)
+
+Vamos conectar e trocar ideias sobre dados! 😃
+
+
